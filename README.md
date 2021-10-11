@@ -1,0 +1,1 @@
+# Phát hiện trộm từ camera bằng opencv
